@@ -1,5 +1,4 @@
 import streamlit as st
-st.title("MERCI")
 with st.sidebar:
     st.write("Prénoms: Mame Guiniane")
     st.write("Nom: THIAW")
