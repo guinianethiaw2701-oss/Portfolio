@@ -6,7 +6,7 @@ with st.sidebar:
     st.write("Téléphone: 773525434")
     
 st.header("PROFIL")
-st.markdown("""Géographe Aménagiste et Technicienne Supérieure en Géomatique""")
+st.markdown("""Géographe aménagiste et Technicienne Supérieure en Géomatique""")
 st.write("Je suis offreuse de service dans les domaines liés à la géomatique. Mon travail consiste à apporter mon savoir faire dans vos projets et en tirer de l'expérience en retour.")
 
 st.subheader("FORMATIONS")
