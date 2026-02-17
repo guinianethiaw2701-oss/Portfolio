@@ -2,7 +2,7 @@ import streamlit as st
 with st.sidebar:
     st.write("Prénoms: Mame Guiniane")
     st.write("Nom: THIAW")
-    st.write("Mail: mameguiniane2701@gmail.com")
+    st.write("Email: guinianethiaw2701@gmail.com")
     st.write("Téléphone: 773525434")
     
 st.header("PROFIL")
